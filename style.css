@@ -1,0 +1,25 @@
+table{
+    font-family: Helvetica, oblique;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    text-decoration-line: none;
+}
+
+th{
+    font-weight: 800;
+    background-color: deepskyblue;
+    color: #ffffff;
+    font: left;
+}
+
+td{
+    color:white;
+    font-family:inherit;
+    font-style: oblique;
+    font-size: 15px;
+    text-align-last:left;
+    text-align: match-parent;
+    background-color: darkturquoise;
+}
